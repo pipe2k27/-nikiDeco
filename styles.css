@@ -60,10 +60,14 @@ body {
 .anchor {
   cursor: pointer;
   text-decoration: none;  text-decoration: none;
-
+color: black;
 
 }
 
+.anchor:hover {
+  color: black;
+  text-decoration: none;
+}
 .flag {
   max-width: 35vw;
   width: 180px;
